@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 
-const API = "http://localhost:8000";
+const API = "https://ai-interview-backend-gnjq.onrender.com";
 
 // ─── ICONS ──────────────────────────────────────────────────────────────────
 const Icon = ({ d, size = 20, color = "currentColor" }) => (
